@@ -1,2 +1,2 @@
 # Quesiti
-iOS VK App
+VK IOS development project
